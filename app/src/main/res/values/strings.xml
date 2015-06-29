@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">Iniciar</string>
+    <string name="finished">Finalizado</string>
+    <string name="waiting">...</string>
+</resources>
